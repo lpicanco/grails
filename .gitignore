@@ -1,0 +1,6 @@
+test/groovy/grails/config
+test/grails-app
+stacktrace.log
+dist
+target
+grails.iws
